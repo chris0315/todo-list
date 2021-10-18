@@ -32,6 +32,7 @@ const TodoLi = Styled.li`
 const TodoP = Styled.p`
 	margin: 24px 0 24px 24px;
   width: calc(100% - 120px);
+  text-align: center;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
